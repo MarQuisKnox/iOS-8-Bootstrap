@@ -17,7 +17,7 @@ Go to http://getbootstrap.com/getting-started/ where instructions will be on how
 
 Icons
 ==============
-Check out this resource for iOS 7 icons:
+Check out this resource for icons:
 
 http://findicons.com/pack/2770/ios_7_icons
 
