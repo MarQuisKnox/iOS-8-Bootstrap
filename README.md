@@ -9,11 +9,11 @@ Just add this to boostrap and give your website the depth and vitality of iOS 8'
 Usage
 ==============
 
-Check out `bootstrap.html` for examples, or <a href="http://brandonjordan1.github.io/iOS-8-Bootstrap/" target="_blank">http://brandonjordan1.github.io/iOS-8-Bootstrap/</a>
+Check out `bootstrap.html` for examples, or Download it at <a href="http://brandonjordan1.github.io/iOS-8-Bootstrap/" target="_blank">here</a>
 
 Bootstrap
 ==============
-Go to http://getbootstrap.com/getting-started/ where instructions will be on how to use bootstrap if you don't already know how.
+Go to <a href="http://getbootstrap.com/getting-started/" target="_blank">http://getbootstrap.com/getting-started/</a> where instructions will be on how to use bootstrap if you don't already know how.
 
 Icons
 ==============
