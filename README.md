@@ -1,4 +1,4 @@
-iOS 8 Bootstrap 1.0
+iOS 8 Bootstrap 1.2
 ===============
 
 A sleek, elegant step up from iOS 7 Bootstrap.
