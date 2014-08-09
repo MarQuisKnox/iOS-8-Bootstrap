@@ -30,5 +30,5 @@ Contact, Get Help & Make Requests
 ==============
 Contact me on <a href='http://brandon-jordan.weebly.com/contact-me'>my website</a> for suggestions, help, and requests.
 
-<br/><hr/>
+<hr/>
 <b><i>OS X Yosemite Bootstrap Coming Soon</i></b>
