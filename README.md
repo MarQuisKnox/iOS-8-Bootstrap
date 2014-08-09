@@ -9,7 +9,7 @@ Just add this to boostrap and give your website the depth and vitality of iOS 8'
 Usage
 ==============
 
-Check out `bootstrap.html` for examples, or Download it at <a href="http://brandonjordan1.github.io/iOS-8-Bootstrap/" target="_blank">here</a>
+Check out `bootstrap.html` for examples, or Download it <a href="http://brandonjordan1.github.io/iOS-8-Bootstrap/" target="_blank">here</a>
 
 Bootstrap
 ==============
