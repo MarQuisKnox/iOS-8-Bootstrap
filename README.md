@@ -1,4 +1,4 @@
-iOS-8-Bootstrap beta 1.0
+iOS 8 Bootstrap beta 1.0
 ===============
 
 A sleek, elegant step up from iOS 7 Bootstrap.
