@@ -24,11 +24,11 @@ http://findicons.com/pack/2770/ios_7_icons
 Credits
 ==============
 
-Created w/ love by Brandon Jordan. All Rights Reserved.
+Made w/ love by Brandon Jordan. All Rights Reserved.
 
 Contact, Get Help & Make Requests
 ==============
 Contact me on <a href='http://brandon-jordan.weebly.com/contact-me'>my website</a> for suggestions, help, and requests.
 
-<hr/>
+<br/><hr/>
 <b><i>OS X Yosemite Bootstrap Coming Soon</i></b>
