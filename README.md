@@ -28,7 +28,7 @@ Created w/ love by Brandon Jordan. All Rights Reserved.
 
 Contact, Get Help & Make Requests
 ==============
-Contact me at <a href='mailto:brandon_jordan360@yahoo.com'>brandon_jordan360@yahoo.com</a> for suggestions, help, and requests.
+Contact me on <a href='http://brandon-jordan.weebly.com/contact-me'>my website</a> for suggestions, help, and requests.
 
 <br/><br/><hr/>
 <b><i>OS X Yosemite Bootstrap Coming Soon</i></b>
